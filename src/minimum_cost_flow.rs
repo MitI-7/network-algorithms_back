@@ -3,6 +3,7 @@ pub mod cycle_canceling;
 pub mod dual_network_simplex;
 pub mod graph;
 pub mod network_simplex_pivot_rules;
+pub mod out_of_kilter;
 pub mod parametric_network_simplex;
 pub mod primal_dual;
 pub mod primal_network_simplex;

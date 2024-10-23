@@ -1,3 +1,4 @@
+pub mod cost_scaling_push_relabel;
 mod csr;
 pub mod cycle_canceling;
 pub mod dual_network_simplex;
